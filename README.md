@@ -11,7 +11,6 @@ FutureCube is a 3D interactive application built with React and `@react-three/fi
 
 ## Installation
 
-### Clone the Repository
 
 ```bash
 git clone https://github.com/DEVJDR/FutureCube.git
